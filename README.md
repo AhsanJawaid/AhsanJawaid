@@ -6,6 +6,7 @@
 📧 **Email:** [ahsanjawaid1001@gmail.com](mailto:ahsanjawaid1001@gmail.com)  
 🔗 **LinkedIn:** [ahsanjawaid](https://linkedin.com/in/ahsanjawaid)  
 👨‍💻 **GitHub:** [ahsanjawaid](https://github.com/ahsanjawaid)
+📊 **Kaggle:** [ahsanjawaidd](https://kaggle.com/ahsanjawaidd)
 
 
 ### About Me 🌐
