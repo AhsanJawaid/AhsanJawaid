@@ -50,7 +50,7 @@ My background includes a strong foundation in computer science, holding an MSCS 
 
 ### Certifications 📜
 - **Systems Ltd:** ITM Batch-04
-- - **AinGenx:** Data Science for Professionals
+- **AinGenx:** Data Science for Professionals
 - **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
 - **Udacity:** NLP, ML, React Nanodegrees
 - **Deloitte Australia:** Technology Job Simulation (Forage)
@@ -66,9 +66,9 @@ My background includes a strong foundation in computer science, holding an MSCS 
 
 ### 📈 GitHub Stats
 
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox)
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhsanJawaid&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanJawaid&layout=compact&theme=gruvbox)
 
 
 🔗 I joined GitHub to learn, share, and collaborate with the global data science community. My goal is to tackle real-world problems and continuously improve my understanding of machine learning and AI.
